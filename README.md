@@ -19,3 +19,6 @@ cd frontend
 npm install
 npm start
 ```
+
+## Author
+Kartik Sharma
